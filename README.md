@@ -1,4 +1,7 @@
 # Bank-project
+
+
+
 customer = Bank('shiva', '30', 'male')
 customer.deposit(1000)
 customer.withdraw(4555)
