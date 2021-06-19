@@ -1,13 +1,6 @@
 # Bank-project
 
 
-
-customer = Bank('shiva', '30', 'male')
-customer.deposit(1000)
-customer.withdraw(4555)
-customer.final_details()
-
-
 1)Create the user 
 customer = Bank('shiva', '30', 'male')
 
